@@ -1,6 +1,6 @@
 {
   "name": "cinemas",
-  "home":"https://mangineniruthu.github.io/cinemas",
+  "homepage":"https://mangineniruthu.github.io/cinemas",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
