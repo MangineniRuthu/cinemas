@@ -1,6 +1,6 @@
 import MovieDetails from "./components/MovieDetails";
 import MovieHome from "./components/MovieHome";
-import { BrowserRouter as Router,Route,Routes } from "react-router-dom";
+import { HashRouter as Router,Route,Routes } from "react-router-dom";
 function App() {
   return (
     <Router>
